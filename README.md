@@ -1,2 +1,7 @@
-# artigo-viii-wtg-dataset
-Dataset utilizado no artigo submetido para o VIII WTG do SBRC 2025
+# Dataset do Artigo submetido no VIII WTG 
+
+### 🎇Sobre o Artigo
+
+### 🛠 Metodologia Utilizada
+
+### 🔎Base de Dados 
