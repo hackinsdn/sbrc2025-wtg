@@ -3,5 +3,5 @@
 ### 🎇Sobre o Artigo
 
 ### 🛠 Metodologia Utilizada
-<img scr="metodologia.png" alt="metodologia">
+![Metodologia do Projeto](metodologia.png)
 ### 🔎Base de Dados 
